@@ -13,9 +13,6 @@ int getLength(Node* pHead) {
     }
     return count;
 }
-Node* merge(Node* l1, Node* l2) {
-    
-}
 Node* middleNode(Node* l1) {
     Node* t1 = l1;
     Node* t2 = l2;
